@@ -1,9 +1,9 @@
-# Beth-FB
+# Gross-FB
 Hacking a facebook con fuerza bruta en perl
 
 # Usar :
 
 ```
-perl beth-fb.pl [usuario] list.txt
+perl gross.pl [usuario] list.txt
 ```
 
